@@ -1,0 +1,3 @@
+export default {
+  yelp: 'SnI9d65loEXdsW1rOEJn22zPl5Bf1_bk57sFcDb5puMjjUs04QJ9qL7E90DpiF1wEanQ783ziVU6at7oik605n4v4idNtjlP9-qR5PM5urt2IUuTpCbGi9sl-w-KX3Yx'
+}
